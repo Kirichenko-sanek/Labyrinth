@@ -1,0 +1,27 @@
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\obj\Debug\Labyrinth.User_interface.resources
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\Лабораторные работы\Семестр 3.2\Системное программирование\Lab5\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.User_interface.resources
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.User_interface.resources
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\Учёба\Лабораторные работы\Семестр 3.2\СПО(КП)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
